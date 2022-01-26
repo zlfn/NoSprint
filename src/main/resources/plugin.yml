@@ -1,0 +1,5 @@
+name: NoSprint
+version: '${project.version}'
+main: zlfn.nosprint.NoSprint
+authors: [ zlfn ]
+description: No sprint plugin
